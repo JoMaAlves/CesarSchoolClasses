@@ -1,0 +1,56 @@
+EXECUTION BY PRIORITY
+
+[T6] for 10 units
+[T7] for 30 units
+[T3] for 25 units
+[T2] for 25 units
+[T1] for 20 units
+[T5] for 20 units
+[T4] for 15 units
+[T8] for 25 units
+
+METRICS
+
+[T6]
+Turnaround time: 10
+Waiting time: 0
+Response time: 0
+
+[T7]
+Turnaround time: 40
+Waiting time: 10
+Response time: 10
+
+[T3]
+Turnaround time: 65
+Waiting time: 40
+Response time: 40
+
+[T2]
+Turnaround time: 90
+Waiting time: 65
+Response time: 65
+
+[T1]
+Turnaround time: 110
+Waiting time: 90
+Response time: 90
+
+[T5]
+Turnaround time: 130
+Waiting time: 110
+Response time: 110
+
+[T4]
+Turnaround time: 145
+Waiting time: 130
+Response time: 130
+
+[T8]
+Turnaround time: 170
+Waiting time: 145
+Response time: 145
+
+Average turnaround time = 95.00
+Average waiting time = 73.75
+Average response time = 73.75

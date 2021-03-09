@@ -1,0 +1,56 @@
+EXECUTION BY SJF
+
+[T6] for 10 units
+[T4] for 15 units
+[T5] for 20 units
+[T1] for 20 units
+[T8] for 25 units
+[T3] for 25 units
+[T2] for 25 units
+[T7] for 30 units
+
+METRICS
+
+[T6]
+Turnaround time: 10
+Waiting time: 0
+Response time: 0
+
+[T4]
+Turnaround time: 25
+Waiting time: 10
+Response time: 10
+
+[T5]
+Turnaround time: 45
+Waiting time: 25
+Response time: 25
+
+[T1]
+Turnaround time: 65
+Waiting time: 45
+Response time: 45
+
+[T8]
+Turnaround time: 90
+Waiting time: 65
+Response time: 65
+
+[T3]
+Turnaround time: 115
+Waiting time: 90
+Response time: 90
+
+[T2]
+Turnaround time: 140
+Waiting time: 115
+Response time: 115
+
+[T7]
+Turnaround time: 170
+Waiting time: 140
+Response time: 140
+
+Average turnaround time = 82.50
+Average waiting time = 61.25
+Average response time = 61.25
